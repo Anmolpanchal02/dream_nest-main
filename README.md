@@ -15,7 +15,7 @@ This project is a full-stack application with a React frontend and a Node.js/Exp
 1. Clone the repository:
 
 
-git clone https://github.com/Anmolpanchal02/dream-nest.git
+git clone [https://github.com/Anmolpanchal02/dream-nest.git](https://github.com/Anmolpanchal02/dream_nest-main)
 cd dream-nest
 
 
